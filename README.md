@@ -1,1 +1,2 @@
 # Evoting-BlockChain
+export SENDGRID_API_KEY=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
